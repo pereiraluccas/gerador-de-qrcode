@@ -50,8 +50,19 @@ label{
     .divisao {
         flex-direction: column;
     }
-
     .conteudo {
         margin-bottom: 30px;
+       padding-left: 120px;
+        flex-direction: column;
+        
+    }
+    .texto{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+       
+    }
+    h2{
+        padding-left: 220px;
     }
 }
